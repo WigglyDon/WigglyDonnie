@@ -4,7 +4,7 @@ If you are reading [this](https://github.com/wigglydonnie) it's probably because
 
 Feel free to browse all of the repos on my profile as I do not have any work that is private or hidden. 
 
-***However!*** only a select few projects have been professionally formatted and documented for use in my work portfolio, so consider this your *only* jank warning if you plan on going deep into the depths of [Helm's Deep](https://www.youtube.com/watch?v=DkFzbPth288) ;)
+***However!*** only a select few projects have been professionally formatted and documented for use in my work portfolio, so consider this your *only* jank warning if you plan on going into the [*deep end*](https://www.youtube.com/watch?v=DkFzbPth288) ;)
 
 
 
