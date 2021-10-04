@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @WigglyDonnie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello hello! I'm Donnie. 안녕하세요! 저는 도니예요!
 
-<!---
-WigglyDonnie/WigglyDonnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you are reading [this](https://github.com/wigglydonnie) it's probably because you are interested in what I can do as a web developer... 
+
+Feel free to browse all of the repos on my profile as I do not have any work that is private or hidden. 
+
+***However!*** only a select few projects have been professionally formatted and documented for use in my work portfolio, so consider this your *only* jank warning if you plan on going deep into the depths of [Helm's Deep](https://www.youtube.com/watch?v=DkFzbPth288) ;)
+
+
+
+
