@@ -1,10 +1,3 @@
-In my spare time I like to play Path of Exile and create builds for SSF Hardcore :)
+After a brief illness I am happy to be returning to web development with renewed passion for engaging in authentic and personally fulfilling projects.
 
-Also do some stuff in Runescape and the Runelite client
-
-#### [My LinkedIn](https://www.linkedin.com/in/donnie-walsh-947b2a224/)
-
-
-
-
-
+Beyond my technical skills, I excel in communication, strategy, and always thrive in a leadership position.
